@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+    margin-top: 40px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.b1{
+    background-color: white;
+    margin: 30px;
+    padding : 10px;
+    border-radius: 10px;
+    border: none;
+    width: 90px;
+    box-shadow: 4px 4px 20px black;
+    font-size: large;
+}
+.b1:hover {
+    font-size: larger;
+    background-color: lightblue;
+}
+.b2{
+    background-color: white;
+    margin: 30px;
+    padding : 10px;
+    border-radius: 10px;
+    width: 90px;
+    border: none;
+    box-shadow: 4px 4px 20px black;
+    font-size: large;
+}
+.b2:hover {
+    font-size: larger;
+    background-color: lightpink;
+}
